@@ -1,0 +1,3 @@
+# Project Thoughts
+
+One idea I had for a project was to continue work on a project that was started last semester for my Software Design and Documentation class. The way that project was organized was with a common repository and other projects I have worked on have been common repositories as well. Another idea was to start a new project relating to machine learning and it would be interesting to set up a blessed repository and see the benefits of that. 
